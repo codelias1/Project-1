@@ -31,7 +31,7 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://github.com/codelias1/Project-1/assets/161394478/8e15265d-ca29-46b1-adb5-9af38c3c7387' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://github.com/codelias1/Project-1/assets/161394478/8e15265d-ca29-46b1-adb5-9af38c3c7387' title='Video Demo' width='200' alt='Video Demo' />
 
 GIF created with **Kap**
 
