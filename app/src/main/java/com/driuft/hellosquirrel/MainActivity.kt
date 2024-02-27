@@ -21,6 +21,9 @@ class MainActivity : AppCompatActivity() {
 
         configureViews()
         setupProfile()
+        val profileImage: ImageView = findViewById(R.id.profile_image)
+        profileImage.setImageResource(R.drawable.bitmoji)
+
     }
 
     private fun configureViews() {
